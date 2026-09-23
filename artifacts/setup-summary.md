@@ -25,12 +25,12 @@
 ## Active Tasks
 | Task | Assignee | Status |
 |------|----------|--------|
-| Research AI tools landscape | Scout | Todo |
-| Create first video script | Sage | Todo |
-| Design  digital product | Revenue | Todo |
-| Create Shorts strategy plan | Surge | Todo |
-| Set up GitHub repo structure | Atlas | Todo |
-| Create social media plan | Amplify | Todo |
+| Research AI tools landscape | Inspector | In progress |
+| Create first video script | Scribe | In progress |
+| Design $27 digital product | Revenue | In progress |
+| Create Shorts strategy plan | Surge | In progress |
+| Set up GitHub repo structure | Atlas | Complete |
+| Create social media plan | Amplify | In progress |
 
 ## Revenue Model (mimicking Insider Force)
 - **Entry**: -27 digital bundle (AI prompts, guides, templates)

@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(D:\\Faceless YT Channel/scripts/paperclip-issue-update.sh:*)",
+      "Bash(D:\\Faceless YT Channel/scripts/paperclip:*)",
+      "Bash(curl:*)",
+      "Bash(env)",
+      "Bash(env:*)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\companies\\7d9bacd4-dd59-4a93-9848-29e38211d257",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\companies\\7d9bacd4-dd59-4a93-9848-29e38211d257\\acp-engine\\agents\\13482a27-be30-4637-a206-a0d70553cce8",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\companies\\7d9bacd4-dd59-4a93-9848-29e38211d257\\acp-engine\\agents\\25a98e06-d44d-4f1d-87ef-e14cae3f2696",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\companies\\7d9bacd4-dd59-4a93-9848-29e38211d257\\acp-engine\\agents\\339cc83b-61a6-44af-ba8a-a4d9063886e5",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\companies\\7d9bacd4-dd59-4a93-9848-29e38211d257\\acp-engine\\agents\\87fcd65f-96bb-46d5-82ba-28a1ace0403b",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\companies\\7d9bacd4-dd59-4a93-9848-29e38211d257\\acp-engine\\agents\\a38519a9-9f73-4158-9758-ef7cf624008d",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\companies\\7d9bacd4-dd59-4a93-9848-29e38211d257\\acp-engine\\agents\\b9b87bbe-d982-471e-ac85-0a82064c4a7e",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\workspaces\\13482a27-be30-4637-a206-a0d70553cce8",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\workspaces\\25a98e06-d44d-4f1d-87ef-e14cae3f2696",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\workspaces\\339cc83b-61a6-44af-ba8a-a4d9063886e5",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\workspaces\\87fcd65f-96bb-46d5-82ba-28a1ace0403b",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\workspaces\\a38519a9-9f73-4158-9758-ef7cf624008d",
+      "C:\\Users\\Intel\\.paperclip-test\\instances\\default\\workspaces\\b9b87bbe-d982-471e-ac85-0a82064c4a7e"
+    ],
+    "defaultMode": "default"
+  }
+}

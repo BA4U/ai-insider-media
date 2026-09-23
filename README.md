@@ -36,6 +36,10 @@ Flow: Inspector finds topics → Scribe writes scripts → Forge guides editing 
 | Set up GitHub repo structure | Atlas | In progress |
 | Create social media plan | Amplify | In progress |
 
+## Board Decision Log
+
+See [board-decision-log.md](board-decision-log.md) for the official board decision log and operations tracking system.
+
 ## Revenue Model (mimicking Insider Force)
 - **Entry**: $17-27 digital bundle (AI prompts, guides, templates)
 - **Core**: $47-97 course (faceless video system)
