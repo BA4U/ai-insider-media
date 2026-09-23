@@ -6,6 +6,7 @@
 - **Prefix**: AII
 - **Budget**: $500/month
 - **Model (all agents)**: FREE — `opencode/nemotron-3.5-lightning-free` via `opencode_local`
+- **Instruction style**: caveman-compressed (22% smaller, 11,144 → 8,649 chars) + terse reply rule in every agent file
 - **Status**: Active
 
 ## GitHub
