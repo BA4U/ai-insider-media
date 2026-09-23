@@ -4,43 +4,46 @@
 - **Name**: Rationale (AI Insider Media)
 - **Paperclip ID**: 7d9bacd4-dd59-4a93-9848-29e38211d257
 - **Prefix**: AII
-- **Budget**: /month
+- **Budget**: $500/month
+- **Model (all agents)**: FREE — `opencode/nemotron-3.5-lightning-free` via `opencode_local`
 - **Status**: Active
 
 ## GitHub
 - **Repo**: https://github.com/BA4U/ai-insider-media
 - **Purpose**: All project files, scripts, configs, and sync
 
-## Team (7 agents)
-| Agent | Role | Budget | Status |
-|-------|------|--------|--------|
-| Atlas | CEO | /mo | Active |
-| Sage | Content Strategist | /mo | Active |
-| Scout | AI Research Agent | /mo | Active |
-| Forge | Video Editor Agent | /mo | Active |
-| Surge | Growth & Viral Agent | /mo | Active |
-| Revenue | Monetization Agent | /mo | Active |
-| Amplify | Social Media Agent | /mo | Active |
+## Team (7 agents) — who does what
+| Agent | Role | What they do | Budget |
+|-------|------|--------------|--------|
+| Atlas | Chief Executive Officer | Coordinates everything, delegates, owns budget | $80/mo |
+| Scribe | Script Writer — Video Scripts | WRITES every video script (hooks, bodies, CTAs, titles) | $80/mo |
+| Inspector | AI Research Lead | RESEARCHES AI tools, trends, viral topics; feeds Scribe | $70/mo |
+| Forge | Video Editor — Editing Instructions | Editing instructions, pacing, B-roll, thumbnails (skills TBD) | $60/mo |
+| Surge | Growth Lead — Shorts & Viral | Shorts strategy, algorithm, viral hooks, retention | $70/mo |
+| Revenue | Monetization Lead — Products & Affiliates | Digital products, affiliates, sponsors, services | $70/mo |
+| Amplify | Social Media Manager — Repurposing & Community | Instagram/TikTok/LinkedIn, community, cross-posting | $50/mo |
+
+Flow: Inspector finds topics → Scribe writes scripts → Forge guides editing → Surge + Amplify distribute → Revenue monetizes. Atlas coordinates.
 
 ## Active Tasks
 | Task | Assignee | Status |
 |------|----------|--------|
-| Research AI tools landscape | Scout | Todo |
-| Create first video script | Sage | Todo |
-| Design  digital product | Revenue | Todo |
-| Create Shorts strategy plan | Surge | Todo |
-| Set up GitHub repo structure | Atlas | Todo |
-| Create social media plan | Amplify | Todo |
+| Research AI tools landscape | Inspector | In progress |
+| Create first video script | Scribe | In progress |
+| Design $27 digital product | Revenue | In progress |
+| Create Shorts strategy plan | Surge | In progress |
+| Set up GitHub repo structure | Atlas | In progress |
+| Create social media plan | Amplify | In progress |
 
 ## Revenue Model (mimicking Insider Force)
-- **Entry**: -27 digital bundle (AI prompts, guides, templates)
-- **Core**: -97 course (faceless video system)
-- **Premium**: -497/mo services (editing, scripting, channel setup)
+- **Entry**: $17-27 digital bundle (AI prompts, guides, templates)
+- **Core**: $47-97 course (faceless video system)
+- **Premium**: $197-497/mo services (editing, scripting, channel setup)
 - **Affiliate**: AI tool affiliate programs (20-30% recurring)
 
 ## Next Steps
-1. Agents begin working on assigned tasks
+1. Agents work their assigned tasks (already in progress)
 2. User creates YouTube account (@Rationale or chosen name)
 3. User loads video editing skills for Forge agent
-4. First video script from Sage + research from Scout
+4. First video script from Scribe + research from Inspector
 5. First digital product from Revenue
