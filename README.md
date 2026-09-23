@@ -16,15 +16,15 @@
 ## Team (7 agents) — who does what
 | Agent | Role | What they do | Budget |
 |-------|------|--------------|--------|
-| Atlas | Chief Executive Officer | Coordinates everything, delegates, owns budget | $80/mo |
-| Scribe | Script Writer — Video Scripts | WRITES every video script (hooks, bodies, CTAs, titles) | $80/mo |
-| Inspector | AI Research Lead | RESEARCHES AI tools, trends, viral topics; feeds Scribe | $70/mo |
-| Forge | Video Editor — Editing Instructions | Editing instructions, pacing, B-roll, thumbnails (skills TBD) | $60/mo |
-| Surge | Growth Lead — Shorts & Viral | Shorts strategy, algorithm, viral hooks, retention | $70/mo |
-| Revenue | Monetization Lead — Products & Affiliates | Digital products, affiliates, sponsors, services | $70/mo |
-| Amplify | Social Media Manager — Repurposing & Community | Instagram/TikTok/LinkedIn, community, cross-posting | $50/mo |
+| CEO | Chief Executive Officer | Coordinates everything, delegates, owns budget | $80/mo |
+| Script Writer | Script Writer — Video Scripts | WRITES every video script (hooks, bodies, CTAs, titles) | $80/mo |
+| Researcher | AI Research Lead | RESEARCHES AI tools, trends, viral topics; feeds Script Writer | $70/mo |
+| Video Editor | Video Editor — Editing Instructions | Editing instructions, pacing, B-roll (your skills plug in here later) | $60/mo |
+| Growth Lead | Growth Lead — Shorts & Viral | Shorts strategy, algorithm, viral hooks | $70/mo |
+| Monetization Lead | Monetization Lead — Products & Affiliates | Digital products, affiliates, sponsors, services | $70/mo |
+| Social Media Manager | Social Media Manager — Repurposing & Community | Instagram/TikTok/LinkedIn, community, cross-posting | $50/mo |
 
-Flow: Inspector finds topics → Scribe writes scripts → Forge guides editing → Surge + Amplify distribute → Revenue monetizes. Atlas coordinates.
+Flow: Researcher finds topics → Script Writer writes scripts → Video Editor guides editing → Growth Lead + Social Media Manager distribute → Monetization Lead monetizes. CEO coordinates.
 
 ## Active Tasks
 | Task | Assignee | Status |
